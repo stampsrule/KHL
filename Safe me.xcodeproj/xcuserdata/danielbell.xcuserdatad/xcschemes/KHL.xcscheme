@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6F46C990194CB05D00461242"
-               BuildableName = "KHL.app"
-               BlueprintName = "KHL"
-               ReferencedContainer = "container:KHL.xcodeproj">
+               BuildableName = "Safe me.app"
+               BlueprintName = "Safe me"
+               ReferencedContainer = "container:Safe me.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6F46C9B7194CB05D00461242"
-               BuildableName = "KHLTests.xctest"
-               BlueprintName = "KHLTests"
-               ReferencedContainer = "container:KHL.xcodeproj">
+               BuildableName = "Safe meTests.xctest"
+               BlueprintName = "Safe meTests"
+               ReferencedContainer = "container:Safe me.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6F46C990194CB05D00461242"
-            BuildableName = "KHL.app"
-            BlueprintName = "KHL"
-            ReferencedContainer = "container:KHL.xcodeproj">
+            BuildableName = "Safe me.app"
+            BlueprintName = "Safe me"
+            ReferencedContainer = "container:Safe me.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6F46C990194CB05D00461242"
-            BuildableName = "KHL.app"
-            BlueprintName = "KHL"
-            ReferencedContainer = "container:KHL.xcodeproj">
+            BuildableName = "Safe me.app"
+            BlueprintName = "Safe me"
+            ReferencedContainer = "container:Safe me.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6F46C990194CB05D00461242"
-            BuildableName = "KHL.app"
-            BlueprintName = "KHL"
-            ReferencedContainer = "container:KHL.xcodeproj">
+            BuildableName = "Safe me.app"
+            BlueprintName = "Safe me"
+            ReferencedContainer = "container:Safe me.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

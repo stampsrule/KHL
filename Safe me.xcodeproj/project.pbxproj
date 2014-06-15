@@ -28,6 +28,16 @@
 		6FCBF61B194CFE2900C06126 /* step_4_updated_2012-261x248.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FCBF617194CFE2900C06126 /* step_4_updated_2012-261x248.jpg */; };
 		6FCBF624194D107E00C06126 /* KHLHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FCBF623194D107E00C06126 /* KHLHomeViewController.m */; };
 		6FCBF627194D10B000C06126 /* KHLEmergencyCallViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FCBF626194D10B000C06126 /* KHLEmergencyCallViewController.m */; };
+		6FEB081A194D2FDD00D7D92A /* mdinhale.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6FEB0819194D2FDD00D7D92A /* mdinhale.gif */; };
+		6FEB081D194D321500D7D92A /* KHLProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FEB081C194D321500D7D92A /* KHLProfileViewController.m */; };
+		6FEB0826194D634F00D7D92A /* bully-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FEB081E194D634F00D7D92A /* bully-1.jpg */; };
+		6FEB0827194D634F00D7D92A /* children-cold-remedy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FEB081F194D634F00D7D92A /* children-cold-remedy.jpg */; };
+		6FEB0828194D634F00D7D92A /* eczemahands.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FEB0820194D634F00D7D92A /* eczemahands.jpg */; };
+		6FEB0829194D634F00D7D92A /* free-tools-icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FEB0821194D634F00D7D92A /* free-tools-icon.jpg */; };
+		6FEB082A194D634F00D7D92A /* game.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FEB0822194D634F00D7D92A /* game.png */; };
+		6FEB082B194D634F00D7D92A /* icon-taste.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FEB0823194D634F00D7D92A /* icon-taste.png */; };
+		6FEB082C194D634F00D7D92A /* stock-photo-abuse-word-letters-with-vintage-grunge-type-160114049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FEB0824194D634F00D7D92A /* stock-photo-abuse-word-letters-with-vintage-grunge-type-160114049.jpg */; };
+		6FEB082D194D634F00D7D92A /* teststress1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6FEB0825194D634F00D7D92A /* teststress1.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,22 +51,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		6F46C991194CB05D00461242 /* KHL.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KHL.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F46C991194CB05D00461242 /* Safe me.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Safe me.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F46C994194CB05D00461242 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6F46C996194CB05D00461242 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		6F46C998194CB05D00461242 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		6F46C99C194CB05D00461242 /* KHL-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "KHL-Info.plist"; sourceTree = "<group>"; };
+		6F46C99C194CB05D00461242 /* Safe me-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Safe me-Info.plist"; sourceTree = "<group>"; };
 		6F46C99E194CB05D00461242 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6F46C9A0194CB05D00461242 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		6F46C9A2194CB05D00461242 /* KHL-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "KHL-Prefix.pch"; sourceTree = "<group>"; };
+		6F46C9A2194CB05D00461242 /* Safe me-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Safe me-Prefix.pch"; sourceTree = "<group>"; };
 		6F46C9A3194CB05D00461242 /* KHLAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KHLAppDelegate.h; sourceTree = "<group>"; };
 		6F46C9A4194CB05D00461242 /* KHLAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KHLAppDelegate.m; sourceTree = "<group>"; };
 		6F46C9A7194CB05D00461242 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		6F46C9AA194CB05D00461242 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
 		6F46C9B2194CB05D00461242 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		6F46C9B8194CB05D00461242 /* KHLTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KHLTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F46C9B8194CB05D00461242 /* Safe meTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Safe meTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F46C9B9194CB05D00461242 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		6F46C9C1194CB05D00461242 /* KHLTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "KHLTests-Info.plist"; sourceTree = "<group>"; };
+		6F46C9C1194CB05D00461242 /* Safe meTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Safe meTests-Info.plist"; sourceTree = "<group>"; };
 		6F46C9C3194CB05D00461242 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6F46C9C5194CB05D00461242 /* KHLTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KHLTests.m; sourceTree = "<group>"; };
 		6F46C9CF194CB76000461242 /* phone2-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "phone2-50.png"; sourceTree = "<group>"; };
@@ -68,6 +78,17 @@
 		6FCBF623194D107E00C06126 /* KHLHomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KHLHomeViewController.m; sourceTree = "<group>"; };
 		6FCBF625194D10B000C06126 /* KHLEmergencyCallViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KHLEmergencyCallViewController.h; sourceTree = "<group>"; };
 		6FCBF626194D10B000C06126 /* KHLEmergencyCallViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KHLEmergencyCallViewController.m; sourceTree = "<group>"; };
+		6FEB0819194D2FDD00D7D92A /* mdinhale.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = mdinhale.gif; sourceTree = "<group>"; };
+		6FEB081B194D321500D7D92A /* KHLProfileViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KHLProfileViewController.h; sourceTree = "<group>"; };
+		6FEB081C194D321500D7D92A /* KHLProfileViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KHLProfileViewController.m; sourceTree = "<group>"; };
+		6FEB081E194D634F00D7D92A /* bully-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bully-1.jpg"; sourceTree = "<group>"; };
+		6FEB081F194D634F00D7D92A /* children-cold-remedy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "children-cold-remedy.jpg"; sourceTree = "<group>"; };
+		6FEB0820194D634F00D7D92A /* eczemahands.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eczemahands.jpg; sourceTree = "<group>"; };
+		6FEB0821194D634F00D7D92A /* free-tools-icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "free-tools-icon.jpg"; sourceTree = "<group>"; };
+		6FEB0822194D634F00D7D92A /* game.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = game.png; sourceTree = "<group>"; };
+		6FEB0823194D634F00D7D92A /* icon-taste.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-taste.png"; sourceTree = "<group>"; };
+		6FEB0824194D634F00D7D92A /* stock-photo-abuse-word-letters-with-vintage-grunge-type-160114049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "stock-photo-abuse-word-letters-with-vintage-grunge-type-160114049.jpg"; sourceTree = "<group>"; };
+		6FEB0825194D634F00D7D92A /* teststress1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = teststress1.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,14 +127,23 @@
 				6FCBF615194CFE2900C06126 /* step_2_updated_2012.jpg */,
 				6FCBF616194CFE2900C06126 /* step_3_updated_2012.jpg */,
 				6FCBF617194CFE2900C06126 /* step_4_updated_2012-261x248.jpg */,
+				6FEB0819194D2FDD00D7D92A /* mdinhale.gif */,
+				6FEB081E194D634F00D7D92A /* bully-1.jpg */,
+				6FEB081F194D634F00D7D92A /* children-cold-remedy.jpg */,
+				6FEB0820194D634F00D7D92A /* eczemahands.jpg */,
+				6FEB0821194D634F00D7D92A /* free-tools-icon.jpg */,
+				6FEB0822194D634F00D7D92A /* game.png */,
+				6FEB0823194D634F00D7D92A /* icon-taste.png */,
+				6FEB0824194D634F00D7D92A /* stock-photo-abuse-word-letters-with-vintage-grunge-type-160114049.jpg */,
+				6FEB0825194D634F00D7D92A /* teststress1.gif */,
 			);
 			sourceTree = "<group>";
 		};
 		6F46C992194CB05D00461242 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6F46C991194CB05D00461242 /* KHL.app */,
-				6F46C9B8194CB05D00461242 /* KHLTests.xctest */,
+				6F46C991194CB05D00461242 /* Safe me.app */,
+				6F46C9B8194CB05D00461242 /* Safe meTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -139,6 +169,8 @@
 				6FCBF623194D107E00C06126 /* KHLHomeViewController.m */,
 				6FCBF625194D10B000C06126 /* KHLEmergencyCallViewController.h */,
 				6FCBF626194D10B000C06126 /* KHLEmergencyCallViewController.m */,
+				6FEB081B194D321500D7D92A /* KHLProfileViewController.h */,
+				6FEB081C194D321500D7D92A /* KHLProfileViewController.m */,
 				6F46C9A9194CB05D00461242 /* Main_iPad.storyboard */,
 				6F46C9B2194CB05D00461242 /* Images.xcassets */,
 				6F46C99B194CB05D00461242 /* Supporting Files */,
@@ -149,10 +181,10 @@
 		6F46C99B194CB05D00461242 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				6F46C99C194CB05D00461242 /* KHL-Info.plist */,
+				6F46C99C194CB05D00461242 /* Safe me-Info.plist */,
 				6F46C99D194CB05D00461242 /* InfoPlist.strings */,
 				6F46C9A0194CB05D00461242 /* main.m */,
-				6F46C9A2194CB05D00461242 /* KHL-Prefix.pch */,
+				6F46C9A2194CB05D00461242 /* Safe me-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -169,7 +201,7 @@
 		6F46C9C0194CB05D00461242 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				6F46C9C1194CB05D00461242 /* KHLTests-Info.plist */,
+				6F46C9C1194CB05D00461242 /* Safe meTests-Info.plist */,
 				6F46C9C2194CB05D00461242 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -178,9 +210,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6F46C990194CB05D00461242 /* KHL */ = {
+		6F46C990194CB05D00461242 /* Safe me */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6F46C9C9194CB05D00461242 /* Build configuration list for PBXNativeTarget "KHL" */;
+			buildConfigurationList = 6F46C9C9194CB05D00461242 /* Build configuration list for PBXNativeTarget "Safe me" */;
 			buildPhases = (
 				6F46C98D194CB05D00461242 /* Sources */,
 				6F46C98E194CB05D00461242 /* Frameworks */,
@@ -190,14 +222,14 @@
 			);
 			dependencies = (
 			);
-			name = KHL;
+			name = "Safe me";
 			productName = KHL;
-			productReference = 6F46C991194CB05D00461242 /* KHL.app */;
+			productReference = 6F46C991194CB05D00461242 /* Safe me.app */;
 			productType = "com.apple.product-type.application";
 		};
-		6F46C9B7194CB05D00461242 /* KHLTests */ = {
+		6F46C9B7194CB05D00461242 /* Safe meTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6F46C9CC194CB05D00461242 /* Build configuration list for PBXNativeTarget "KHLTests" */;
+			buildConfigurationList = 6F46C9CC194CB05D00461242 /* Build configuration list for PBXNativeTarget "Safe meTests" */;
 			buildPhases = (
 				6F46C9B4194CB05D00461242 /* Sources */,
 				6F46C9B5194CB05D00461242 /* Frameworks */,
@@ -208,9 +240,9 @@
 			dependencies = (
 				6F46C9BE194CB05D00461242 /* PBXTargetDependency */,
 			);
-			name = KHLTests;
+			name = "Safe meTests";
 			productName = KHLTests;
-			productReference = 6F46C9B8194CB05D00461242 /* KHLTests.xctest */;
+			productReference = 6F46C9B8194CB05D00461242 /* Safe meTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -228,7 +260,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6F46C98C194CB05D00461242 /* Build configuration list for PBXProject "KHL" */;
+			buildConfigurationList = 6F46C98C194CB05D00461242 /* Build configuration list for PBXProject "Safe me" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -241,8 +273,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6F46C990194CB05D00461242 /* KHL */,
-				6F46C9B7194CB05D00461242 /* KHLTests */,
+				6F46C990194CB05D00461242 /* Safe me */,
+				6F46C9B7194CB05D00461242 /* Safe meTests */,
 			);
 		};
 /* End PBXProject section */
@@ -252,14 +284,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FEB082C194D634F00D7D92A /* stock-photo-abuse-word-letters-with-vintage-grunge-type-160114049.jpg in Resources */,
 				6FCBF618194CFE2900C06126 /* step_1_updated_2012.jpg in Resources */,
+				6FEB0828194D634F00D7D92A /* eczemahands.jpg in Resources */,
 				6F46C9AB194CB05D00461242 /* Main_iPad.storyboard in Resources */,
+				6FEB0827194D634F00D7D92A /* children-cold-remedy.jpg in Resources */,
 				6F46C9B3194CB05D00461242 /* Images.xcassets in Resources */,
 				6FCBF619194CFE2900C06126 /* step_2_updated_2012.jpg in Resources */,
 				6FCBF61B194CFE2900C06126 /* step_4_updated_2012-261x248.jpg in Resources */,
 				6F46C9D0194CB76000461242 /* phone2-50.png in Resources */,
+				6FEB082B194D634F00D7D92A /* icon-taste.png in Resources */,
+				6FEB081A194D2FDD00D7D92A /* mdinhale.gif in Resources */,
+				6FEB0826194D634F00D7D92A /* bully-1.jpg in Resources */,
 				6F46C9A8194CB05D00461242 /* Main_iPhone.storyboard in Resources */,
+				6FEB082A194D634F00D7D92A /* game.png in Resources */,
 				6FCBF61A194CFE2900C06126 /* step_3_updated_2012.jpg in Resources */,
+				6FEB0829194D634F00D7D92A /* free-tools-icon.jpg in Resources */,
+				6FEB082D194D634F00D7D92A /* teststress1.gif in Resources */,
 				6F46C99F194CB05D00461242 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -283,6 +324,7 @@
 				6FCBF624194D107E00C06126 /* KHLHomeViewController.m in Sources */,
 				6F46C9A5194CB05D00461242 /* KHLAppDelegate.m in Sources */,
 				6F46C9A1194CB05D00461242 /* main.m in Sources */,
+				6FEB081D194D321500D7D92A /* KHLProfileViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,7 +341,7 @@
 /* Begin PBXTargetDependency section */
 		6F46C9BE194CB05D00461242 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6F46C990194CB05D00461242 /* KHL */;
+			target = 6F46C990194CB05D00461242 /* Safe me */;
 			targetProxy = 6F46C9BD194CB05D00461242 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -418,9 +460,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "KHL/KHL-Prefix.pch";
-				INFOPLIST_FILE = "KHL/KHL-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "KHL/Safe me-Prefix.pch";
+				INFOPLIST_FILE = "KHL/Safe me-Info.plist";
+				PRODUCT_NAME = "Safe me";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -431,9 +473,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "KHL/KHL-Prefix.pch";
-				INFOPLIST_FILE = "KHL/KHL-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "KHL/Safe me-Prefix.pch";
+				INFOPLIST_FILE = "KHL/Safe me-Info.plist";
+				PRODUCT_NAME = "Safe me";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -453,8 +495,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "KHLTests/KHLTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "KHLTests/Safe meTests-Info.plist";
+				PRODUCT_NAME = "Safe meTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -471,8 +513,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "KHL/KHL-Prefix.pch";
-				INFOPLIST_FILE = "KHLTests/KHLTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "KHLTests/Safe meTests-Info.plist";
+				PRODUCT_NAME = "Safe meTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -481,7 +523,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6F46C98C194CB05D00461242 /* Build configuration list for PBXProject "KHL" */ = {
+		6F46C98C194CB05D00461242 /* Build configuration list for PBXProject "Safe me" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6F46C9C7194CB05D00461242 /* Debug */,
@@ -490,7 +532,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6F46C9C9194CB05D00461242 /* Build configuration list for PBXNativeTarget "KHL" */ = {
+		6F46C9C9194CB05D00461242 /* Build configuration list for PBXNativeTarget "Safe me" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6F46C9CA194CB05D00461242 /* Debug */,
@@ -499,7 +541,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6F46C9CC194CB05D00461242 /* Build configuration list for PBXNativeTarget "KHLTests" */ = {
+		6F46C9CC194CB05D00461242 /* Build configuration list for PBXNativeTarget "Safe meTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6F46C9CD194CB05D00461242 /* Debug */,
