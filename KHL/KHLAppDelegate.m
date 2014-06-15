@@ -12,7 +12,28 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // Override point for customization after application launch.
+    
+    
+    UITabBarController *tabBarController = (UITabBarController *)self.window.rootViewController;
+    UITabBar *tabBar = tabBarController.tabBar;
+    UITabBarItem *tabBarItem1 = [tabBar.items objectAtIndex:0];
+    UITabBarItem *tabBarItem2 = [tabBar.items objectAtIndex:1];
+    UITabBarItem *tabBarItem3 = [tabBar.items objectAtIndex:2];
+    UITabBarItem *tabBarItem4 = [tabBar.items objectAtIndex:3];
+    UITabBarItem *tabBarItem5 = [tabBar.items objectAtIndex:4];
+    
+    (void)[tabBarItem1 initWithTitle:@"Home" image:[UIImage imageNamed:@"Home"] selectedImage:[UIImage imageNamed:@"Home_filled"]];
+    (void)[tabBarItem2 initWithTitle:@"Trouble!" image:[UIImage imageNamed:@"health"] selectedImage:[UIImage imageNamed:@"health"]];
+    (void)[tabBarItem3 initWithTitle:@"info" image:[UIImage imageNamed:@"info"] selectedImage:[UIImage imageNamed:@"info"]];
+    (void)[tabBarItem4 initWithTitle:@"call" image:[UIImage imageNamed:@"phone"] selectedImage:[UIImage imageNamed:@"phone"]];
+    (void)[tabBarItem5 initWithTitle:@"me" image:[UIImage imageNamed:@"User"] selectedImage:[UIImage imageNamed:@"User_filled"]];
+    
+    // Change the tab bar background
+//    UIImage* tabBarBackground = [UIImage imageNamed:@"tabbar.png"];
+//    [[UITabBar appearance] setBackgroundImage:tabBarBackground];
+    
+    
+    
     return YES;
 }
 							

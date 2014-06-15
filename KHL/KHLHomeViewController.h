@@ -1,5 +1,5 @@
 //
-//  KHLSecondViewController.h
+//  KHLHomeViewController.h
 //  KHL
 //
 //  Created by Daniel Bell on 2014-06-14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface KHLSecondViewController : UIViewController
-
+@interface KHLHomeViewController : UIViewController
+- (IBAction)unwindToHome:(UIStoryboardSegue *)unwindSegue;
 @end

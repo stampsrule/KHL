@@ -1,5 +1,5 @@
 //
-//  KHLFirstViewController.h
+//  KHLEmergencyCallViewController.h
 //  KHL
 //
 //  Created by Daniel Bell on 2014-06-14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface KHLFirstViewController : UIViewController
+@interface KHLEmergencyCallViewController : UIViewController
 
 @end

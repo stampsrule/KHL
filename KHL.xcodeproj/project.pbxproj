@@ -15,14 +15,19 @@
 		6F46C9A5194CB05D00461242 /* KHLAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46C9A4194CB05D00461242 /* KHLAppDelegate.m */; };
 		6F46C9A8194CB05D00461242 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F46C9A6194CB05D00461242 /* Main_iPhone.storyboard */; };
 		6F46C9AB194CB05D00461242 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F46C9A9194CB05D00461242 /* Main_iPad.storyboard */; };
-		6F46C9AE194CB05D00461242 /* KHLFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46C9AD194CB05D00461242 /* KHLFirstViewController.m */; };
-		6F46C9B1194CB05D00461242 /* KHLSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46C9B0194CB05D00461242 /* KHLSecondViewController.m */; };
 		6F46C9B3194CB05D00461242 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F46C9B2194CB05D00461242 /* Images.xcassets */; };
 		6F46C9BA194CB05D00461242 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F46C9B9194CB05D00461242 /* XCTest.framework */; };
 		6F46C9BB194CB05D00461242 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F46C994194CB05D00461242 /* Foundation.framework */; };
 		6F46C9BC194CB05D00461242 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F46C998194CB05D00461242 /* UIKit.framework */; };
 		6F46C9C4194CB05D00461242 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6F46C9C2194CB05D00461242 /* InfoPlist.strings */; };
 		6F46C9C6194CB05D00461242 /* KHLTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46C9C5194CB05D00461242 /* KHLTests.m */; };
+		6F46C9D0194CB76000461242 /* phone2-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6F46C9CF194CB76000461242 /* phone2-50.png */; };
+		6FCBF618194CFE2900C06126 /* step_1_updated_2012.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FCBF614194CFE2900C06126 /* step_1_updated_2012.jpg */; };
+		6FCBF619194CFE2900C06126 /* step_2_updated_2012.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FCBF615194CFE2900C06126 /* step_2_updated_2012.jpg */; };
+		6FCBF61A194CFE2900C06126 /* step_3_updated_2012.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FCBF616194CFE2900C06126 /* step_3_updated_2012.jpg */; };
+		6FCBF61B194CFE2900C06126 /* step_4_updated_2012-261x248.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FCBF617194CFE2900C06126 /* step_4_updated_2012-261x248.jpg */; };
+		6FCBF624194D107E00C06126 /* KHLHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FCBF623194D107E00C06126 /* KHLHomeViewController.m */; };
+		6FCBF627194D10B000C06126 /* KHLEmergencyCallViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FCBF626194D10B000C06126 /* KHLEmergencyCallViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,16 +53,21 @@
 		6F46C9A4194CB05D00461242 /* KHLAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KHLAppDelegate.m; sourceTree = "<group>"; };
 		6F46C9A7194CB05D00461242 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		6F46C9AA194CB05D00461242 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
-		6F46C9AC194CB05D00461242 /* KHLFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KHLFirstViewController.h; sourceTree = "<group>"; };
-		6F46C9AD194CB05D00461242 /* KHLFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KHLFirstViewController.m; sourceTree = "<group>"; };
-		6F46C9AF194CB05D00461242 /* KHLSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KHLSecondViewController.h; sourceTree = "<group>"; };
-		6F46C9B0194CB05D00461242 /* KHLSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KHLSecondViewController.m; sourceTree = "<group>"; };
 		6F46C9B2194CB05D00461242 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		6F46C9B8194CB05D00461242 /* KHLTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KHLTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F46C9B9194CB05D00461242 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		6F46C9C1194CB05D00461242 /* KHLTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "KHLTests-Info.plist"; sourceTree = "<group>"; };
 		6F46C9C3194CB05D00461242 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6F46C9C5194CB05D00461242 /* KHLTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KHLTests.m; sourceTree = "<group>"; };
+		6F46C9CF194CB76000461242 /* phone2-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "phone2-50.png"; sourceTree = "<group>"; };
+		6FCBF614194CFE2900C06126 /* step_1_updated_2012.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = step_1_updated_2012.jpg; sourceTree = "<group>"; };
+		6FCBF615194CFE2900C06126 /* step_2_updated_2012.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = step_2_updated_2012.jpg; sourceTree = "<group>"; };
+		6FCBF616194CFE2900C06126 /* step_3_updated_2012.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = step_3_updated_2012.jpg; sourceTree = "<group>"; };
+		6FCBF617194CFE2900C06126 /* step_4_updated_2012-261x248.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "step_4_updated_2012-261x248.jpg"; sourceTree = "<group>"; };
+		6FCBF622194D107E00C06126 /* KHLHomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KHLHomeViewController.h; sourceTree = "<group>"; };
+		6FCBF623194D107E00C06126 /* KHLHomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KHLHomeViewController.m; sourceTree = "<group>"; };
+		6FCBF625194D10B000C06126 /* KHLEmergencyCallViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KHLEmergencyCallViewController.h; sourceTree = "<group>"; };
+		6FCBF626194D10B000C06126 /* KHLEmergencyCallViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KHLEmergencyCallViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +101,11 @@
 				6F46C9BF194CB05D00461242 /* KHLTests */,
 				6F46C993194CB05D00461242 /* Frameworks */,
 				6F46C992194CB05D00461242 /* Products */,
+				6F46C9CF194CB76000461242 /* phone2-50.png */,
+				6FCBF614194CFE2900C06126 /* step_1_updated_2012.jpg */,
+				6FCBF615194CFE2900C06126 /* step_2_updated_2012.jpg */,
+				6FCBF616194CFE2900C06126 /* step_3_updated_2012.jpg */,
+				6FCBF617194CFE2900C06126 /* step_4_updated_2012-261x248.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -120,11 +135,11 @@
 				6F46C9A3194CB05D00461242 /* KHLAppDelegate.h */,
 				6F46C9A4194CB05D00461242 /* KHLAppDelegate.m */,
 				6F46C9A6194CB05D00461242 /* Main_iPhone.storyboard */,
+				6FCBF622194D107E00C06126 /* KHLHomeViewController.h */,
+				6FCBF623194D107E00C06126 /* KHLHomeViewController.m */,
+				6FCBF625194D10B000C06126 /* KHLEmergencyCallViewController.h */,
+				6FCBF626194D10B000C06126 /* KHLEmergencyCallViewController.m */,
 				6F46C9A9194CB05D00461242 /* Main_iPad.storyboard */,
-				6F46C9AC194CB05D00461242 /* KHLFirstViewController.h */,
-				6F46C9AD194CB05D00461242 /* KHLFirstViewController.m */,
-				6F46C9AF194CB05D00461242 /* KHLSecondViewController.h */,
-				6F46C9B0194CB05D00461242 /* KHLSecondViewController.m */,
 				6F46C9B2194CB05D00461242 /* Images.xcassets */,
 				6F46C99B194CB05D00461242 /* Supporting Files */,
 			);
@@ -237,9 +252,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FCBF618194CFE2900C06126 /* step_1_updated_2012.jpg in Resources */,
 				6F46C9AB194CB05D00461242 /* Main_iPad.storyboard in Resources */,
 				6F46C9B3194CB05D00461242 /* Images.xcassets in Resources */,
+				6FCBF619194CFE2900C06126 /* step_2_updated_2012.jpg in Resources */,
+				6FCBF61B194CFE2900C06126 /* step_4_updated_2012-261x248.jpg in Resources */,
+				6F46C9D0194CB76000461242 /* phone2-50.png in Resources */,
 				6F46C9A8194CB05D00461242 /* Main_iPhone.storyboard in Resources */,
+				6FCBF61A194CFE2900C06126 /* step_3_updated_2012.jpg in Resources */,
 				6F46C99F194CB05D00461242 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -259,9 +279,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F46C9AE194CB05D00461242 /* KHLFirstViewController.m in Sources */,
+				6FCBF627194D10B000C06126 /* KHLEmergencyCallViewController.m in Sources */,
+				6FCBF624194D107E00C06126 /* KHLHomeViewController.m in Sources */,
 				6F46C9A5194CB05D00461242 /* KHLAppDelegate.m in Sources */,
-				6F46C9B1194CB05D00461242 /* KHLSecondViewController.m in Sources */,
 				6F46C9A1194CB05D00461242 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -477,6 +497,7 @@
 				6F46C9CB194CB05D00461242 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6F46C9CC194CB05D00461242 /* Build configuration list for PBXNativeTarget "KHLTests" */ = {
 			isa = XCConfigurationList;
@@ -485,6 +506,7 @@
 				6F46C9CE194CB05D00461242 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
