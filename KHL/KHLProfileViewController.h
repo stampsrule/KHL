@@ -8,9 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface KHLProfileViewController : UIViewController <UIPickerViewDelegate, UIPickerViewDataSource>
-
-@property (strong, nonatomic) IBOutlet  UIPickerView *picker;
-@property (strong, nonatomic) NSArray *arrayAlergies;
+@interface KHLProfileViewController : UIViewController
 
 @end

@@ -22,6 +22,10 @@
 		6F46C9C4194CB05D00461242 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6F46C9C2194CB05D00461242 /* InfoPlist.strings */; };
 		6F46C9C6194CB05D00461242 /* KHLTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46C9C5194CB05D00461242 /* KHLTests.m */; };
 		6F46C9D0194CB76000461242 /* phone2-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6F46C9CF194CB76000461242 /* phone2-50.png */; };
+		6FB190B5194D90B200B1C44B /* KHLMyConditionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FB190B4194D90B200B1C44B /* KHLMyConditionViewController.m */; };
+		6FB190B8194D9D7D00B1C44B /* KHLPhoneContactViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FB190B7194D9D7D00B1C44B /* KHLPhoneContactViewController.m */; };
+		6FB190BB194DA76300B1C44B /* KHLMedicalConcernsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FB190BA194DA76300B1C44B /* KHLMedicalConcernsViewController.m */; };
+		6FB190BD194DAD5C00B1C44B /* 42245.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6FB190BC194DAD5C00B1C44B /* 42245.gif */; };
 		6FCBF618194CFE2900C06126 /* step_1_updated_2012.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FCBF614194CFE2900C06126 /* step_1_updated_2012.jpg */; };
 		6FCBF619194CFE2900C06126 /* step_2_updated_2012.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FCBF615194CFE2900C06126 /* step_2_updated_2012.jpg */; };
 		6FCBF61A194CFE2900C06126 /* step_3_updated_2012.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FCBF616194CFE2900C06126 /* step_3_updated_2012.jpg */; };
@@ -38,6 +42,7 @@
 		6FEB082B194D634F00D7D92A /* icon-taste.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FEB0823194D634F00D7D92A /* icon-taste.png */; };
 		6FEB082C194D634F00D7D92A /* stock-photo-abuse-word-letters-with-vintage-grunge-type-160114049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FEB0824194D634F00D7D92A /* stock-photo-abuse-word-letters-with-vintage-grunge-type-160114049.jpg */; };
 		6FEB082D194D634F00D7D92A /* teststress1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6FEB0825194D634F00D7D92A /* teststress1.gif */; };
+		6FEB0830194D6E1300D7D92A /* KHLCallViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FEB082F194D6E1300D7D92A /* KHLCallViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +75,13 @@
 		6F46C9C3194CB05D00461242 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6F46C9C5194CB05D00461242 /* KHLTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KHLTests.m; sourceTree = "<group>"; };
 		6F46C9CF194CB76000461242 /* phone2-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "phone2-50.png"; sourceTree = "<group>"; };
+		6FB190B3194D90B200B1C44B /* KHLMyConditionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KHLMyConditionViewController.h; sourceTree = "<group>"; };
+		6FB190B4194D90B200B1C44B /* KHLMyConditionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KHLMyConditionViewController.m; sourceTree = "<group>"; };
+		6FB190B6194D9D7D00B1C44B /* KHLPhoneContactViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KHLPhoneContactViewController.h; sourceTree = "<group>"; };
+		6FB190B7194D9D7D00B1C44B /* KHLPhoneContactViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KHLPhoneContactViewController.m; sourceTree = "<group>"; };
+		6FB190B9194DA76300B1C44B /* KHLMedicalConcernsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KHLMedicalConcernsViewController.h; sourceTree = "<group>"; };
+		6FB190BA194DA76300B1C44B /* KHLMedicalConcernsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KHLMedicalConcernsViewController.m; sourceTree = "<group>"; };
+		6FB190BC194DAD5C00B1C44B /* 42245.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 42245.gif; sourceTree = "<group>"; };
 		6FCBF614194CFE2900C06126 /* step_1_updated_2012.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = step_1_updated_2012.jpg; sourceTree = "<group>"; };
 		6FCBF615194CFE2900C06126 /* step_2_updated_2012.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = step_2_updated_2012.jpg; sourceTree = "<group>"; };
 		6FCBF616194CFE2900C06126 /* step_3_updated_2012.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = step_3_updated_2012.jpg; sourceTree = "<group>"; };
@@ -89,6 +101,8 @@
 		6FEB0823194D634F00D7D92A /* icon-taste.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-taste.png"; sourceTree = "<group>"; };
 		6FEB0824194D634F00D7D92A /* stock-photo-abuse-word-letters-with-vintage-grunge-type-160114049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "stock-photo-abuse-word-letters-with-vintage-grunge-type-160114049.jpg"; sourceTree = "<group>"; };
 		6FEB0825194D634F00D7D92A /* teststress1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = teststress1.gif; sourceTree = "<group>"; };
+		6FEB082E194D6E1300D7D92A /* KHLCallViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KHLCallViewController.h; sourceTree = "<group>"; };
+		6FEB082F194D6E1300D7D92A /* KHLCallViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KHLCallViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +145,7 @@
 				6FEB081E194D634F00D7D92A /* bully-1.jpg */,
 				6FEB081F194D634F00D7D92A /* children-cold-remedy.jpg */,
 				6FEB0820194D634F00D7D92A /* eczemahands.jpg */,
+				6FB190BC194DAD5C00B1C44B /* 42245.gif */,
 				6FEB0821194D634F00D7D92A /* free-tools-icon.jpg */,
 				6FEB0822194D634F00D7D92A /* game.png */,
 				6FEB0823194D634F00D7D92A /* icon-taste.png */,
@@ -165,12 +180,20 @@
 				6F46C9A3194CB05D00461242 /* KHLAppDelegate.h */,
 				6F46C9A4194CB05D00461242 /* KHLAppDelegate.m */,
 				6F46C9A6194CB05D00461242 /* Main_iPhone.storyboard */,
+				6FB190B3194D90B200B1C44B /* KHLMyConditionViewController.h */,
+				6FB190B4194D90B200B1C44B /* KHLMyConditionViewController.m */,
+				6FEB082E194D6E1300D7D92A /* KHLCallViewController.h */,
+				6FEB082F194D6E1300D7D92A /* KHLCallViewController.m */,
 				6FCBF622194D107E00C06126 /* KHLHomeViewController.h */,
 				6FCBF623194D107E00C06126 /* KHLHomeViewController.m */,
 				6FCBF625194D10B000C06126 /* KHLEmergencyCallViewController.h */,
 				6FCBF626194D10B000C06126 /* KHLEmergencyCallViewController.m */,
 				6FEB081B194D321500D7D92A /* KHLProfileViewController.h */,
 				6FEB081C194D321500D7D92A /* KHLProfileViewController.m */,
+				6FB190B9194DA76300B1C44B /* KHLMedicalConcernsViewController.h */,
+				6FB190BA194DA76300B1C44B /* KHLMedicalConcernsViewController.m */,
+				6FB190B6194D9D7D00B1C44B /* KHLPhoneContactViewController.h */,
+				6FB190B7194D9D7D00B1C44B /* KHLPhoneContactViewController.m */,
 				6F46C9A9194CB05D00461242 /* Main_iPad.storyboard */,
 				6F46C9B2194CB05D00461242 /* Images.xcassets */,
 				6F46C99B194CB05D00461242 /* Supporting Files */,
@@ -299,6 +322,7 @@
 				6F46C9A8194CB05D00461242 /* Main_iPhone.storyboard in Resources */,
 				6FEB082A194D634F00D7D92A /* game.png in Resources */,
 				6FCBF61A194CFE2900C06126 /* step_3_updated_2012.jpg in Resources */,
+				6FB190BD194DAD5C00B1C44B /* 42245.gif in Resources */,
 				6FEB0829194D634F00D7D92A /* free-tools-icon.jpg in Resources */,
 				6FEB082D194D634F00D7D92A /* teststress1.gif in Resources */,
 				6F46C99F194CB05D00461242 /* InfoPlist.strings in Resources */,
@@ -320,10 +344,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FEB0830194D6E1300D7D92A /* KHLCallViewController.m in Sources */,
 				6FCBF627194D10B000C06126 /* KHLEmergencyCallViewController.m in Sources */,
 				6FCBF624194D107E00C06126 /* KHLHomeViewController.m in Sources */,
 				6F46C9A5194CB05D00461242 /* KHLAppDelegate.m in Sources */,
+				6FB190B5194D90B200B1C44B /* KHLMyConditionViewController.m in Sources */,
 				6F46C9A1194CB05D00461242 /* main.m in Sources */,
+				6FB190BB194DA76300B1C44B /* KHLMedicalConcernsViewController.m in Sources */,
+				6FB190B8194D9D7D00B1C44B /* KHLPhoneContactViewController.m in Sources */,
 				6FEB081D194D321500D7D92A /* KHLProfileViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
