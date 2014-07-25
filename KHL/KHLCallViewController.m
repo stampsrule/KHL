@@ -54,10 +54,10 @@
                  [[NSCharacterSet decimalDigitCharacterSet] invertedSet]]
                 componentsJoinedByString:@""];
     
-    if (!(otherPhone.length==7 || otherPhone.length==10)) {
-        self.otherCall.hidden=YES;
-        self.otherLabel.hidden=YES;
-    }
+//    if (!(otherPhone.length==7 || otherPhone.length==10)) {
+//        self.otherCall.hidden=YES;
+//        self.otherLabel.hidden=YES;
+//    }
     if (!(momPhone.length==7 || momPhone.length==10)) {
         self.callMomButton.hidden=YES;
         self.momLabel.hidden=YES;

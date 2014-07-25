@@ -11,10 +11,12 @@
 @interface KHLEmergencyCallViewController ()
 @property (weak, nonatomic) IBOutlet UIButton *momButton;
 @property (weak, nonatomic) IBOutlet UIButton *dadButton;
+@property (weak, nonatomic) IBOutlet UIButton *otherButton;
 @property (nonatomic, strong) NSUserDefaults *defaults;
 @property (nonatomic, strong) NSString *Emergency;
 @property (nonatomic, strong) NSString *momPhone;
 @property (nonatomic, strong) NSString *dadPhone;
+@property (nonatomic, strong) NSString *otherPhone;
 @property (weak, nonatomic) IBOutlet UIButton *EmergencyButton;
 
 
@@ -25,6 +27,7 @@
 @synthesize Emergency;
 @synthesize momPhone;
 @synthesize dadPhone;
+@synthesize otherPhone;
 
 
 - (void)viewDidLoad
@@ -34,6 +37,7 @@
     Emergency=@"411";
     defaults = [NSUserDefaults standardUserDefaults];
     momPhone=([defaults objectForKey:@"momphone"]) ? [defaults objectForKey:@"momphone"] : @"";
+    otherPhone=([defaults objectForKey:@"other{hone"]) ? [defaults objectForKey:@"otherPhone"] : @"";
     dadPhone  = ([defaults objectForKey:@"dadphone"]) ? [defaults objectForKey:@"dadphone"] : @"";
     momPhone = [[momPhone componentsSeparatedByCharactersInSet:
                  [[NSCharacterSet decimalDigitCharacterSet] invertedSet]]
@@ -47,7 +51,10 @@
     if (!(dadPhone.length==7 || dadPhone.length==10)) {
         self.dadButton.hidden=YES;
     }
-
+    if (!(otherPhone.length==7 || otherPhone.length==10)) {
+        self.otherButton.hidden=YES;
+    }
+    [self.otherButton setTitle:([defaults objectForKey:@"otherName"]) ? [defaults objectForKey:@"otherName"] : @"" forState:UIControlStateNormal];
 }
 
 - (IBAction)callEmergency:(UIButton *)sender {
@@ -60,6 +67,9 @@
 
 - (IBAction)callDad:(UIButton *)sender {
     [[UIApplication sharedApplication] openURL:[NSURL URLWithString:[NSString stringWithFormat:@"tel://%@",dadPhone]]];
+}
+- (IBAction)callOther:(UIButton *)sender {
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:[NSString stringWithFormat:@"tel://%@",otherPhone]]];
 }
 
 

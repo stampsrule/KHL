@@ -26,6 +26,13 @@
 		6FB190B8194D9D7D00B1C44B /* KHLPhoneContactViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FB190B7194D9D7D00B1C44B /* KHLPhoneContactViewController.m */; };
 		6FB190BB194DA76300B1C44B /* KHLMedicalConcernsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FB190BA194DA76300B1C44B /* KHLMedicalConcernsViewController.m */; };
 		6FB190BD194DAD5C00B1C44B /* 42245.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6FB190BC194DAD5C00B1C44B /* 42245.gif */; };
+		6FB190C1194DB78A00B1C44B /* mannequin-outline-draw.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6FB190C0194DB78A00B1C44B /* mannequin-outline-draw.gif */; };
+		6FB190C5194DB80700B1C44B /* 125218369.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FB190C4194DB80700B1C44B /* 125218369.png */; };
+		6FBAADFB194E0426004493A7 /* 400_F_33388846_QIGFzqG4Qn5XjODcHzGznyeuPWmzTw9j.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FBAADF9194E0426004493A7 /* 400_F_33388846_QIGFzqG4Qn5XjODcHzGznyeuPWmzTw9j.jpg */; };
+		6FBAADFC194E0426004493A7 /* respiratory_5.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FBAADFA194E0426004493A7 /* respiratory_5.png */; };
+		6FBAADFE194E06BE004493A7 /* cough.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6FBAADFD194E06BE004493A7 /* cough.gif */; };
+		6FBAAE00194E0789004493A7 /* asthma-center-icon3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6FBAADFF194E0789004493A7 /* asthma-center-icon3.gif */; };
+		6FBAAE03194E1067004493A7 /* KHLVideoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FBAAE02194E1067004493A7 /* KHLVideoViewController.m */; };
 		6FCBF618194CFE2900C06126 /* step_1_updated_2012.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FCBF614194CFE2900C06126 /* step_1_updated_2012.jpg */; };
 		6FCBF619194CFE2900C06126 /* step_2_updated_2012.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FCBF615194CFE2900C06126 /* step_2_updated_2012.jpg */; };
 		6FCBF61A194CFE2900C06126 /* step_3_updated_2012.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FCBF616194CFE2900C06126 /* step_3_updated_2012.jpg */; };
@@ -82,6 +89,14 @@
 		6FB190B9194DA76300B1C44B /* KHLMedicalConcernsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KHLMedicalConcernsViewController.h; sourceTree = "<group>"; };
 		6FB190BA194DA76300B1C44B /* KHLMedicalConcernsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KHLMedicalConcernsViewController.m; sourceTree = "<group>"; };
 		6FB190BC194DAD5C00B1C44B /* 42245.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 42245.gif; sourceTree = "<group>"; };
+		6FB190C0194DB78A00B1C44B /* mannequin-outline-draw.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "mannequin-outline-draw.gif"; sourceTree = "<group>"; };
+		6FB190C4194DB80700B1C44B /* 125218369.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 125218369.png; sourceTree = "<group>"; };
+		6FBAADF9194E0426004493A7 /* 400_F_33388846_QIGFzqG4Qn5XjODcHzGznyeuPWmzTw9j.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 400_F_33388846_QIGFzqG4Qn5XjODcHzGznyeuPWmzTw9j.jpg; sourceTree = "<group>"; };
+		6FBAADFA194E0426004493A7 /* respiratory_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = respiratory_5.png; sourceTree = "<group>"; };
+		6FBAADFD194E06BE004493A7 /* cough.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = cough.gif; sourceTree = "<group>"; };
+		6FBAADFF194E0789004493A7 /* asthma-center-icon3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "asthma-center-icon3.gif"; sourceTree = "<group>"; };
+		6FBAAE01194E1066004493A7 /* KHLVideoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KHLVideoViewController.h; sourceTree = "<group>"; };
+		6FBAAE02194E1067004493A7 /* KHLVideoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KHLVideoViewController.m; sourceTree = "<group>"; };
 		6FCBF614194CFE2900C06126 /* step_1_updated_2012.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = step_1_updated_2012.jpg; sourceTree = "<group>"; };
 		6FCBF615194CFE2900C06126 /* step_2_updated_2012.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = step_2_updated_2012.jpg; sourceTree = "<group>"; };
 		6FCBF616194CFE2900C06126 /* step_3_updated_2012.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = step_3_updated_2012.jpg; sourceTree = "<group>"; };
@@ -143,7 +158,13 @@
 				6FCBF617194CFE2900C06126 /* step_4_updated_2012-261x248.jpg */,
 				6FEB0819194D2FDD00D7D92A /* mdinhale.gif */,
 				6FEB081E194D634F00D7D92A /* bully-1.jpg */,
+				6FBAADFF194E0789004493A7 /* asthma-center-icon3.gif */,
+				6FBAADFD194E06BE004493A7 /* cough.gif */,
+				6FBAADF9194E0426004493A7 /* 400_F_33388846_QIGFzqG4Qn5XjODcHzGznyeuPWmzTw9j.jpg */,
+				6FBAADFA194E0426004493A7 /* respiratory_5.png */,
+				6FB190C0194DB78A00B1C44B /* mannequin-outline-draw.gif */,
 				6FEB081F194D634F00D7D92A /* children-cold-remedy.jpg */,
+				6FB190C4194DB80700B1C44B /* 125218369.png */,
 				6FEB0820194D634F00D7D92A /* eczemahands.jpg */,
 				6FB190BC194DAD5C00B1C44B /* 42245.gif */,
 				6FEB0821194D634F00D7D92A /* free-tools-icon.jpg */,
@@ -180,6 +201,8 @@
 				6F46C9A3194CB05D00461242 /* KHLAppDelegate.h */,
 				6F46C9A4194CB05D00461242 /* KHLAppDelegate.m */,
 				6F46C9A6194CB05D00461242 /* Main_iPhone.storyboard */,
+				6FBAAE01194E1066004493A7 /* KHLVideoViewController.h */,
+				6FBAAE02194E1067004493A7 /* KHLVideoViewController.m */,
 				6FB190B3194D90B200B1C44B /* KHLMyConditionViewController.h */,
 				6FB190B4194D90B200B1C44B /* KHLMyConditionViewController.m */,
 				6FEB082E194D6E1300D7D92A /* KHLCallViewController.h */,
@@ -310,9 +333,12 @@
 				6FEB082C194D634F00D7D92A /* stock-photo-abuse-word-letters-with-vintage-grunge-type-160114049.jpg in Resources */,
 				6FCBF618194CFE2900C06126 /* step_1_updated_2012.jpg in Resources */,
 				6FEB0828194D634F00D7D92A /* eczemahands.jpg in Resources */,
+				6FBAADFE194E06BE004493A7 /* cough.gif in Resources */,
 				6F46C9AB194CB05D00461242 /* Main_iPad.storyboard in Resources */,
+				6FBAADFC194E0426004493A7 /* respiratory_5.png in Resources */,
 				6FEB0827194D634F00D7D92A /* children-cold-remedy.jpg in Resources */,
 				6F46C9B3194CB05D00461242 /* Images.xcassets in Resources */,
+				6FB190C1194DB78A00B1C44B /* mannequin-outline-draw.gif in Resources */,
 				6FCBF619194CFE2900C06126 /* step_2_updated_2012.jpg in Resources */,
 				6FCBF61B194CFE2900C06126 /* step_4_updated_2012-261x248.jpg in Resources */,
 				6F46C9D0194CB76000461242 /* phone2-50.png in Resources */,
@@ -323,8 +349,11 @@
 				6FEB082A194D634F00D7D92A /* game.png in Resources */,
 				6FCBF61A194CFE2900C06126 /* step_3_updated_2012.jpg in Resources */,
 				6FB190BD194DAD5C00B1C44B /* 42245.gif in Resources */,
+				6FBAADFB194E0426004493A7 /* 400_F_33388846_QIGFzqG4Qn5XjODcHzGznyeuPWmzTw9j.jpg in Resources */,
+				6FB190C5194DB80700B1C44B /* 125218369.png in Resources */,
 				6FEB0829194D634F00D7D92A /* free-tools-icon.jpg in Resources */,
 				6FEB082D194D634F00D7D92A /* teststress1.gif in Resources */,
+				6FBAAE00194E0789004493A7 /* asthma-center-icon3.gif in Resources */,
 				6F46C99F194CB05D00461242 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -344,6 +373,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FBAAE03194E1067004493A7 /* KHLVideoViewController.m in Sources */,
 				6FEB0830194D6E1300D7D92A /* KHLCallViewController.m in Sources */,
 				6FCBF627194D10B000C06126 /* KHLEmergencyCallViewController.m in Sources */,
 				6FCBF624194D107E00C06126 /* KHLHomeViewController.m in Sources */,
